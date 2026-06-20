@@ -6,7 +6,7 @@ export default function Hero() {
   return (
     <section className="relative h-screen min-h-[600px] max-h-[1000px] overflow-hidden">
       <Image
-        src="https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=1920&q=85"
+        src="/hero.png"
         alt="Borne de recharge électrique"
         fill priority
         className="object-cover object-center"
